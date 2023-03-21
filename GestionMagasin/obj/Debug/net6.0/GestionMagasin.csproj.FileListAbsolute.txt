@@ -1,0 +1,15 @@
+/home/vincek2/Documents/Simplon/C#Jean/GestionMagasin/GestionMagasin/bin/Debug/net6.0/GestionMagasin
+/home/vincek2/Documents/Simplon/C#Jean/GestionMagasin/GestionMagasin/bin/Debug/net6.0/GestionMagasin.deps.json
+/home/vincek2/Documents/Simplon/C#Jean/GestionMagasin/GestionMagasin/bin/Debug/net6.0/GestionMagasin.runtimeconfig.json
+/home/vincek2/Documents/Simplon/C#Jean/GestionMagasin/GestionMagasin/bin/Debug/net6.0/GestionMagasin.dll
+/home/vincek2/Documents/Simplon/C#Jean/GestionMagasin/GestionMagasin/bin/Debug/net6.0/ref/GestionMagasin.dll
+/home/vincek2/Documents/Simplon/C#Jean/GestionMagasin/GestionMagasin/bin/Debug/net6.0/GestionMagasin.pdb
+/home/vincek2/Documents/Simplon/C#Jean/GestionMagasin/GestionMagasin/obj/Debug/net6.0/GestionMagasin.csproj.AssemblyReference.cache
+/home/vincek2/Documents/Simplon/C#Jean/GestionMagasin/GestionMagasin/obj/Debug/net6.0/GestionMagasin.GeneratedMSBuildEditorConfig.editorconfig
+/home/vincek2/Documents/Simplon/C#Jean/GestionMagasin/GestionMagasin/obj/Debug/net6.0/GestionMagasin.AssemblyInfoInputs.cache
+/home/vincek2/Documents/Simplon/C#Jean/GestionMagasin/GestionMagasin/obj/Debug/net6.0/GestionMagasin.AssemblyInfo.cs
+/home/vincek2/Documents/Simplon/C#Jean/GestionMagasin/GestionMagasin/obj/Debug/net6.0/GestionMagasin.csproj.CoreCompileInputs.cache
+/home/vincek2/Documents/Simplon/C#Jean/GestionMagasin/GestionMagasin/obj/Debug/net6.0/GestionMagasin.dll
+/home/vincek2/Documents/Simplon/C#Jean/GestionMagasin/GestionMagasin/obj/Debug/net6.0/ref/GestionMagasin.dll
+/home/vincek2/Documents/Simplon/C#Jean/GestionMagasin/GestionMagasin/obj/Debug/net6.0/GestionMagasin.pdb
+/home/vincek2/Documents/Simplon/C#Jean/GestionMagasin/GestionMagasin/obj/Debug/net6.0/GestionMagasin.genruntimeconfig.cache
